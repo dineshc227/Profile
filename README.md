@@ -193,6 +193,8 @@ Over 3+ years of experience in Site Reliability Engineering, Production Support,
 📧 **Email:** [dineshchalla28@gmail.com](mailto:dineshchalla28@gmail.com)  
 📱 **Mobile:** +91 7989270251  
 📍 **Location:** Bangalore, India
+<br>
+<br>
  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=2,4,6,8,10"  />
 
 </div>
