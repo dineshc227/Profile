@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- Gradient wave header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=DINESH_CHALLA&fontAlign=50&fontAlignY=38&fontSize=56&color=gradient&customColorList=2,4,6,8,10&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=DINESH-CHALLA&fontAlign=50&fontAlignY=38&fontSize=56&color=gradient&customColorList=2,4,6,8,10&fontColor=ffffff" alt="header" />
 
   <!-- Role / Title -->
   <h3>Site Reliability Engineer • Observability • Production Support • Tecnical Support</h3>
@@ -37,8 +37,10 @@ Over 3+ years of experience in Site Reliability Engineering, Production Support,
 > <code><img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"></code>
 > <code><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"></code>
 > <code><img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" alt="Kibana"></code>
+> <code><img src="https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white" alt="New Relic"></code>
+
 >
-> **Tools:** `Datadog` | `Grafana` | `Kibana` | 
+> **Tools:** `Datadog` | `Grafana` | `Kibana` |  `New Relic` |
 
 *   **Datadog Administration:** Onboarding services, configuring agents, and tuning metrics collection.
 *   **Visualization:** Designing and building insightful dashboards tailored to SLOs/SLIs and business KPIs.
@@ -58,6 +60,7 @@ Over 3+ years of experience in Site Reliability Engineering, Production Support,
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/New%20Relic-1CE783?style=flat-square&logo=newrelic&logoColor=white" alt="New Relic">
   <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white"/>
   <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
   <img src="https://img.shields.io/badge/PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white"/>
@@ -187,10 +190,10 @@ Over 3+ years of experience in Site Reliability Engineering, Production Support,
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white)
 
 
+# Contact Me
+## If you'd like to collaborate, ask a question, or just say hello — feel free to drop a message!
+
 <div align="center">
-
-  
-
 
   <a href="mailto:dineshchalla28@gmail.com">
     <img src="https://img.shields.io/badge/📧%20Email-dineshchalla28%40gmail.com-EC407A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -203,8 +206,6 @@ Over 3+ years of experience in Site Reliability Engineering, Production Support,
   <a href="https://www.google.com/maps/place/Bangalore,+India" target="_blank">
     <img src="https://img.shields.io/badge/📍%20Location-Bangalore%2C%20India-FF5722?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
   </a>
-
-
 
  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=2,4,6,8,10"  />
 
