@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-7C4DFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <!-- Optional: add LinkedIn/Portfolio when available -->
-  <!-- <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
+  <a href="https://www.linkedin.com/in/dinesh-challa-9a484223a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 
 </div>
 
@@ -193,10 +193,8 @@ Over 3+ years of experience in Site Reliability Engineering, Production Support,
 📧 **Email:** [dineshchalla28@gmail.com](mailto:dineshchalla28@gmail.com)  
 📱 **Mobile:** +91 7989270251  
 📍 **Location:** Bangalore, India
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=2,4,6,8,10"  />
 
 </div>
 
-<!-- Colorful visuals & stats -->
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=2,4,6,8,10" alt="footer" />
-</dive>
