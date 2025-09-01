@@ -49,7 +49,7 @@ Over 3+ years of experience in Site Reliability Engineering, Production Support,
 ### <span style="color: #3498db;">Process & Framework</span>
 *   **Service Management:** Skilled in managing **SLOs, SLIs, and SLAs** to align IT services with business goals.
 *   **ITIL Practices:** Well-versed in ITIL frameworks for <span style="background-color: #fff2ac; background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);">**Incident**</span>, <span style="background-color: #fff2ac; background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);">**Change**</span>, <span style="background-color: #fff2ac; background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);">**Major Incident**</span>, and <span style="background-color: #fff2ac; background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);">**Problem Management**</span>.
-*   
+  
 
 
 
@@ -95,7 +95,7 @@ Over 3+ years of experience in Site Reliability Engineering, Production Support,
 *   Provided **24/7 support** to global customers for payments applications in production environments.
 *   Managed and administered the full observability stack: **DataDog, Grafana, Kibana, Dynatrace, Splunk, OMI, Tidal, Sitescope**.
 *   Implemented **SLOs, SLIs, SLAs** to ensure performance and reliability goals were met and measured.
-*   Applied **ITIL frameworks** for <span style="background-color: #fff2ac; background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);">Incident</span>, <span style="background-color: #fff2ac; background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);">Change</span>, <span style="background-color: #fff2ac; background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);">Major</span>, and <span style="background-color: #fff2ac; background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);">Problem Management</span>.
+*   I involve **ITIL frameworks** for <span style="background-color: #fff2ac; background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);">Incident</span>, <span style="background-color: #fff2ac; background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);">Change</span>, <span style="background-color: #fff2ac; background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);">Major</span>, and <span style="background-color: #fff2ac; background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);">Problem Management</span>.
 *   **Created and maintained** comprehensive **DataDog dashboards** & monitors for real-time application performance tracking.
 *   **Onboarded** new application services into production environments and performed gap analysis to ensure monitoring coverage.
 *   **Developed and refined alerts** for KPIs such as success rate, error rate, and composite metrics to reduce noise and improve MTTR.
@@ -155,8 +155,6 @@ Over 3+ years of experience in Site Reliability Engineering, Production Support,
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 🔒 Security
-![Vulnerability Management](https://img.shields.io/badge/Vulnerability_Management-4A154B?style=for-the-badge&logo=securityscorecard&logoColor=white)
 
 ### 🔄 CI/CD
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
