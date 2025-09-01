@@ -25,7 +25,10 @@
 ---
 
 ## <span style="color: #ff6b6b;">🎯 Career Objective</span>
-Over 3+ years of experience in Site Reliability Engineering, Production Support, and Infrastructure Support across L1/L2, with strengths in change/release management and incident/problem management, plus application development exposure. Focused on reliability, observability, noise reduction, and measurable service outcomes.
+- Overall, 3+ years of experience in Site Reliability Engineering & Observability platforms & IT Infrastructure  & Applications Production Support and Java Support Engineer
+- Experienced Observability Monitoring Engineer with over 3 years in administrative roles, specializing in providing 24/7 support for global customers in production environments.
+- Proficient in APM monitoring tools such as DataDog, Grafana, Kibana, Dynatrace, Splunk, OMI, Tidal, and Sitescope. Skilled in managing SLOs, SLIs, and SLAs, and well-versed in ITIL frameworks including incident, change,
+major, and problem management. Proven ability in Datadog administration, dashboard creation, and monitoring services in production environments.
 -   **API Development:** Engineered secure and robust API endpoints for CRUD operations, ensuring data integrity and correct performance.
 -   **Debugging & Maintenance:** Adept at **bug fixing** and **debugging** complex applications to maintain system health.
 -   **Frameworks:** I have good knowledge in developing and troubleshooting applications using **Spring Boot** and **Spring MVC**.
