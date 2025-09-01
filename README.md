@@ -56,21 +56,24 @@ Over 3+ years of experience in Site Reliability Engineering, Production Support,
 ## 🔑 Key Skills
 <p>
   <!-- Monitoring / Observability -->
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/New%20Relic-1CE783?style=flat-square&logo=newrelic&logoColor=white" alt="New Relic">
-  <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>'
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white" alt="New Relic">
+  <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  
   
   
 </p>
@@ -126,68 +129,72 @@ Over 3+ years of experience in Site Reliability Engineering, Production Support,
 ## 🛠️ Technical Stack
 
 ### 📊 Monitoring & Observability
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=elasticstack&logoColor=white)
-![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat&logo=dynatrace&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![HP OMi](https://img.shields.io/badge/HP_OMi-0096D6?style=flat&logo=hp&logoColor=white)
-![SiteScope](https://img.shields.io/badge/SiteScope-0096D6?style=flat&logo=hp&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![HP OMi](https://img.shields.io/badge/HP_OMi-0096D6?style=for-the-badge&logo=hp&logoColor=white)
+![SiteScope](https://img.shields.io/badge/SiteScope-0096D6?style=for-the-badge&logo=hp&logoColor=white)
 
 ### 🎫 Ticketing Systems
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 🔒 Security
-![Vulnerability Management](https://img.shields.io/badge/Vulnerability_Management-4A154B?style=flat&logo=securityscorecard&logoColor=white)
+![Vulnerability Management](https://img.shields.io/badge/Vulnerability_Management-4A154B?style=for-the-badge&logo=securityscorecard&logoColor=white)
 
 ### 🔄 CI/CD
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![AWS DevOps](https://img.shields.io/badge/AWS_DevOps-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS DevOps](https://img.shields.io/badge/AWS_DevOps-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ### 📋 Practices & Frameworks
-![SLOs](https://img.shields.io/badge/SLOs-4A154B?style=flat)
-![SLIs](https://img.shields.io/badge/SLIs-4A154B?style=flat)
-![SLAs](https://img.shields.io/badge/SLAs-4A154B?style=flat)
-![ITIL](https://img.shields.io/badge/ITIL-0F7DC2?style=flat)
-![Agile](https://img.shields.io/badge/Agile-0096D6?style=flat&logo=agile&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-0096D6?style=flat)
-![SRE](https://img.shields.io/badge/SRE-0F9D58?style=flat&logo=google&logoColor=white)
-![Incident Management](https://img.shields.io/badge/Incident_Management-FF6B6B?style=flat)
-![Problem Management](https://img.shields.io/badge/Problem_Management-4ECDC4?style=flat)
-![Change Management](https://img.shields.io/badge/Change_Management-556270?style=flat)
+![SLOs](https://img.shields.io/badge/SLOs-4A154B?style=for-the-badge)
+![SLIs](https://img.shields.io/badge/SLIs-4A154B?style=for-the-badge)
+![SLAs](https://img.shields.io/badge/SLAs-4A154B?style=for-the-badge)
+![ITIL](https://img.shields.io/badge/ITIL-0F7DC2?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-0096D6?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-0096D6?style=for-the-badge)
+![SRE](https://img.shields.io/badge/SRE-0F9D58?style=for-the-badge&logo=google&logoColor=white)
+![Incident Management](https://img.shields.io/badge/Incident_Management-FF6B6B?style=for-the-badge)
+![Problem Management](https://img.shields.io/badge/Problem_Management-4ECDC4?style=for-the-badge)
+![Change Management](https://img.shields.io/badge/Change_Management-556270?style=for-the-badge)
 
 ### 🖥️ Operating Systems
-![Unix](https://img.shields.io/badge/Unix-333333?style=flat)
-![Linux](https://img.shields.io/badge/Linux_RHEL_8-FF0000?style=flat&logo=redhat&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Unix](https://img.shields.io/badge/Unix-333333?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux_RHEL_8-FF0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+
 
 ### ⚠️ Alerting & Performance
-![Performance Metrics](https://img.shields.io/badge/Performance_Metrics-FF9A00?style=flat)
-![Alert Refinement](https://img.shields.io/badge/Alert_Refinement-4CAF50?style=flat)
-![Noise Reduction](https://img.shields.io/badge/Noise_Reduction-9C27B0?style=flat)
+![Performance Metrics](https://img.shields.io/badge/Performance_Metrics-FF9A00?style=for-the-badge)
+![Alert Refinement](https://img.shields.io/badge/Alert_Refinement-4CAF50?style=for-the-badge)
+![Noise Reduction](https://img.shields.io/badge/Noise_Reduction-9C27B0?style=for-the-badge)
 
 ### 🎯 Java Ecosystem
-![J2EE](https://img.shields.io/badge/J2EE-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring Actuator](https://img.shields.io/badge/Spring_Actuator-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white)
+![J2EE](https://img.shields.io/badge/J2EE-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Actuator](https://img.shields.io/badge/Spring_Actuator-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
 # Contact Me
