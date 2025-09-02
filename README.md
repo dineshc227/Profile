@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=DINESH-CHALLA&fontAlign=50&fontAlignY=38&fontSize=56&color=gradient&customColorList=2,4,6,8,10&fontColor=ffffff" alt="header" />
 
   <!-- Role / Title -->
-  <h3>Site Reliability Engineer • Observability • Production Support • Tecnical Support</h3>
+  <h3>Site Reliability Engineer • Observability • Production Support • Technical Support</h3>
 
   <!-- Contact Badges -->
   <a href="mailto:dineshchalla28@gmail.com">
