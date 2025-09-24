@@ -222,7 +222,7 @@ major, and problem management. Proven ability in Datadog administration, dashboa
 | **🏆 Total Contributions** | ![Contributions](https://github-readme-stats.vercel.app/api?username=dineshc227&show_icons=true&count_private=true&hide=prs&theme=radical) |
 | **📂 Languages Used**      | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshc227&layout=compact&theme=radical)                |
 | **⭐ Total Stars**          | ![Stars](https://github-readme-stats.vercel.app/api?username=dineshc227&show_icons=true&count_private=true&hide=stars&theme=radical)  |
-| **🔥 Streak Stats**        | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dineshc227&theme=radical)      
+
  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=2,4,6,8,10"  />
 
 </div>
