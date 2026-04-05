@@ -25,7 +25,7 @@
 ---
 
 ## <span style="color: #ff6b6b;">🎯 Career Objective</span>
-- Overall, 3+ years of experience in Site Reliability Engineering & Observability platforms & IT Infrastructure  & Applications Production Support and Java Support Engineer
+- Overall, 4 years of experience in Site Reliability Engineering & Observability platforms & IT Infrastructure  & Applications Production Support and Java Support Engineer
 - Experienced Observability Monitoring Engineer with over 3 years in administrative roles, specializing in providing 24/7 support for global customers in production environments.
 - Proficient in APM monitoring tools such as DataDog, Grafana, Kibana, Dynatrace, Splunk, OMI, Tidal, and Sitescope. Skilled in managing SLOs, SLIs, and SLAs, and well-versed in ITIL frameworks including incident, change,
 major, and problem management. Proven ability in Datadog administration, dashboard creation, and monitoring services in production environments.
@@ -41,6 +41,8 @@ major, and problem management. Proven ability in Datadog administration, dashboa
 > <code><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"></code>
 > <code><img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" alt="Kibana"></code>
 > <code><img src="https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white" alt="New Relic"></code>
+> <code><img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" alt="Dynatrace"></code>
+><code><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"></code>
 
 >
 > **Tools:** `Datadog` | `Grafana` | `Kibana` |  `New Relic` |
@@ -65,7 +67,7 @@ major, and problem management. Proven ability in Datadog administration, dashboa
   <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
   <img src="https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white" alt="New Relic">
   <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk">
   <img src="https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -96,20 +98,21 @@ major, and problem management. Proven ability in Datadog administration, dashboa
 **Client:** Qatar Airways — Payments Monitoring Group
 
 *   Provided **24/7 support** to global customers for payments applications in production environments.
-*   Managed and administered the full observability stack: **DataDog, Grafana, Kibana, Dynatrace, Splunk, OMI, Tidal, Sitescope**.
+*   Managed AWS infrastructure (EC2, VPC, IAM, S3) supporting 50+ microservices and high-volume payment transactions with auto-scaling and fault tolerance
 *   Implemented **SLOs, SLIs, SLAs** to ensure performance and reliability goals were met and measured.
-*   I involve **ITIL frameworks** for <span style="background-color: #fff2ac; background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);">Incident</span>, <span style="background-color: #fff2ac; background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);">Change</span>, <span style="background-color: #fff2ac; background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);">Major</span>, and <span style="background-color: #fff2ac; background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);">Problem Management</span>.
-*   **Created and maintained** comprehensive **DataDog dashboards** & monitors for real-time application performance tracking.
-*   **Onboarded** new application services into production environments and performed gap analysis to ensure monitoring coverage.
-*   **Developed and refined alerts** for KPIs such as success rate, error rate, and composite metrics to reduce noise and improve MTTR.
-*   Collaborated with development teams via **JIRA** for ticket creation, escalation, and resolution tracking.
+*   Maintained 99.9%+ uptime for critical applications handling high-volume 􀏐inancial transactions.
+*   Designed and implemented Datadog dashboards, monitors, and SLO tracking, improving system visibility and proactive issue detection
+*  Led P1/P2 incident war rooms and RCA, reducing MTTR by 25% and preventing recurring production issues.
+*  Integrated CI/CD pipelines (Azure DevOps, Git, Maven) to enable reliable and faster deployments with reduced failure rates
+*   Reduced MTTR by 30% by developing Python automation scripts for alerting, log analysis, and incident response.
 *   Configured and monitored alerts with **PagerDuty** to ensure timely incident response and on-call rotations.
+*   Supported distributed microservices architecture with end-to-end monitoring across services using logs, metrics, and traces.
+*   Implemented Infrastructure as Code (Terraform) for provisioning and managing AWS resources
 *   Performed advanced observability tasks: custom dashboards, widgets, panels in DataDog; threshold tuning; noise reduction in alerts.
-*   Analyzed and exported observability data from DataDog into **Google Sheets**, reporting key insights and trends to business stakeholders.
-*   Monitored applications, services, and jobs across **DataDog, Grafana, Kibana**.
-*   Prepared detailed **incident checklists** and shared structured, client-facing updates.
-*   Worked extensively on **SLA & SLI definitions** for critical payments services in production systems.
-*   Configured **JIRA dashboards** as per project requirements for enhanced visibility and reporting.
+*  Collaborated with development teams to debug Java/Spring Boot applications, analyzing logs, JVM metrics, and API performance
+*  Improved monitoring ef􀏐iciency by reducing alert noise and false positives, enhancing operational response time.
+*  Deployed and managed containerized applications on Kubernetes, handling pod failures (CrashLoopBackOff), auto-scaling, and resource optimization.
+  
 
 #### <span style="color: #3498db; font-family: 'Segoe UI', sans-serif;">**Wipro, Bangalore**</span> — <span style="font-weight: 600;">Site Reliability Engineer</span> <span style="color: #7f8c8d;">(Apr 2022 – Nov 2022)</span>
 **Client:** Enterprise Solutions — Payments Monitoring
@@ -178,8 +181,6 @@ major, and problem management. Proven ability in Datadog administration, dashboa
 ![Change Management](https://img.shields.io/badge/Change_Management-556270?style=for-the-badge)
 
 ### 🖥️ Operating Systems
-![Unix](https://img.shields.io/badge/Unix-333333?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux_RHEL_8-FF0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
