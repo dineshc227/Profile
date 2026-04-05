@@ -45,7 +45,7 @@ major, and problem management. Proven ability in Datadog administration, dashboa
 ><code><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"></code>
 
 >
-> **Tools:** `Datadog` | `Grafana` | `Kibana` |  `New Relic` |
+> **Tools:** `Datadog` | `Grafana` | `Kibana` |  `New Relic` | `Dynatrace` | `Splunk` |
 
 *   **Datadog Administration:** Onboarding services, configuring agents, and tuning metrics collection.
 *   **Visualization:** Designing and building insightful dashboards tailored to SLOs/SLIs and business KPIs.
