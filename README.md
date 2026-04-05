@@ -112,7 +112,7 @@ major, and problem management. Proven ability in Datadog administration, dashboa
 *   Configured **JIRA dashboards** as per project requirements for enhanced visibility and reporting.
 
 #### <span style="color: #3498db; font-family: 'Segoe UI', sans-serif;">**Wipro, Bangalore**</span> — <span style="font-weight: 600;">Site Reliability Engineer</span> <span style="color: #7f8c8d;">(Apr 2022 – Nov 2022)</span>
-**Client:** HSBC — Payments Monitoring
+**Client:** Enterprise Solutions — Payments Monitoring
 
 *   Provided **24/7 L1/L2 support** to global customers for critical payments applications in production environments.
 *   Managed and administered the APM/Monitoring stack: **Datadog, Grafana, Kibana, OMI, Tidal, SiteScope**.
