@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=DINESH-CHALLA&fontAlign=50&fontAlignY=38&fontSize=56&color=gradient&customColorList=2,4,6,8,10&fontColor=ffffff" alt="header" />
 
   <!-- Role / Title -->
-  <h3>Site Reliability Engineer • Observability • Production Support • Technical Support</h3>
+  <h3>Site Reliability Engineer • Observability • Java App Support • DevOps Engineer</h3>
 
   <!-- Contact Badges -->
   <a href="mailto:dineshchalla28@gmail.com">
@@ -17,24 +17,66 @@
   <a href="https://www.iamdinesh.xyz/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-7C4DFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <!-- Optional: add LinkedIn/Portfolio when available -->
-  <a href="https://www.linkedin.com/in/dineshchalla28/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <a href="https://www.linkedin.com/in/dineshchalla28/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
 </div>
 
 ---
 
-## <span style="color: #ff6b6b;">🎯 Career Objective</span>
-- Overall, 4 years of experience in Site Reliability Engineering & Observability platforms & IT Infrastructure  & Applications Production Support and Java Support Engineer
-- Experienced Observability Monitoring Engineer with over 3 years in administrative roles, specializing in providing 24/7 support for global customers in production environments.
-- Proficient in APM monitoring tools such as DataDog, Grafana, Kibana, Dynatrace, Splunk, OMI, Tidal, and Sitescope. Skilled in managing SLOs, SLIs, and SLAs, and well-versed in ITIL frameworks including incident, change,
-major, and problem management. Proven ability in Datadog administration, dashboard creation, and monitoring services in production environments.
--   **API Development:** Engineered secure and robust API endpoints for CRUD operations, ensuring data integrity and correct performance.
--   **Debugging & Maintenance:** Adept at **bug fixing** and **debugging** complex applications to maintain system health.
--   **Frameworks:** I have good knowledge in developing and troubleshooting applications using **Spring Boot** and **Spring MVC**.
--   **Timely Resolution:** Committed to diagnosing and resolving system issues to minimize downtime and impact.
+## <span style="color: #ff6b6b;">🎯 Professional Summary</span>
+
+Results-driven **Site Reliability Engineer** with **4+ years of experience** ensuring high availability and performance for mission-critical payment platforms on AWS. At DXC Technology:
+
+- 🔻 **Reduced MTTR by 30%** through Python-based automation and structured incident response workflows
+- 🔕 **Cut alert noise by 40%** via systematic Datadog monitor optimization — directly improving on-call quality and MTTD
+- ✅ **Sustained 99.9%+ uptime** across 50+ microservices processing millions of financial transactions daily
+- 🔄 **Reduced P1/P2 repeat incidents by 25%** through RCA-driven root cause elimination and permanent fixes
+
+Deep expertise in **incident command, Kubernetes, CI/CD pipelines, Terraform IaC**, and production **Java/Spring Boot** systems.
+
+---
+
+## 🔑 Key Skills
+
+<p>
+  <!-- Monitoring / Observability -->
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ServiceNow-1A9C3E?style=for-the-badge&logo=servicenow&logoColor=white"/>
+</p>
+
+- **Cloud & Infrastructure:** AWS (EC2, S3, VPC, IAM, Auto Scaling), Kubernetes, Docker, Terraform  
+- **Observability & Monitoring:** Datadog (APM, Logs, SLOs, Monitors), Splunk, Grafana, New Relic, Dynatrace  
+- **SRE Practices:** Incident Management, P1/P2 War Rooms, RCA, SLI/SLO, Error Budgets, Alerting, On-Call  
+- **Programming:** Python (automation, log analysis, alerting scripts), Java  
+- **CI/CD & DevOps:** Azure DevOps, Jenkins, GitHub Actions, Git, Maven  
+- **Frameworks & Databases:** Spring Boot, Spring MVC, Spring Data JPA, Spring Cloud | MySQL, PostgreSQL  
+- **Ticketing Tools:** Jira, ServiceNow  
+- **ITIL Practices:** Incident, Change, Major Incident, and Problem Management  
+
+---
 
 ### <span style="color: #3498db;">Monitoring & Observability</span>
+
 > Proficient in the end-to-end administration of a comprehensive APM and monitoring stack, including:
 >
 > <code><img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"></code>
@@ -42,95 +84,74 @@ major, and problem management. Proven ability in Datadog administration, dashboa
 > <code><img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" alt="Kibana"></code>
 > <code><img src="https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white" alt="New Relic"></code>
 > <code><img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" alt="Dynatrace"></code>
-><code><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"></code>
+> <code><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"></code>
 
->
-> **Tools:** `Datadog` | `Grafana` | `Kibana` |  `New Relic` | `Dynatrace` | `Splunk` |
+> **Tools:** `Datadog` | `Grafana` | `Kibana` | `New Relic` | `Dynatrace` | `Splunk`
 
-*   **Datadog Administration:** Onboarding services, configuring agents, and tuning metrics collection.
-*   **Visualization:** Designing and building insightful dashboards tailored to SLOs/SLIs and business KPIs.
-*   **Alerting:** Implementing and managing alert policies to reduce noise and improve MTTR.
+*   **Datadog Administration:** Onboarding services, configuring agents, tuning metrics collection, and managing monitors end-to-end.
+*   **Visualization:** Designing Datadog dashboards and SLO tracking for real-time visibility across logs, metrics, and APM traces.
+*   **Alerting:** Optimizing monitor thresholds to reduce alert noise by 40% — improving MTTD and on-call quality.
 
 ### <span style="color: #3498db;">Process & Framework</span>
 *   **Service Management:** Skilled in managing **SLOs, SLIs, and SLAs** to align IT services with business goals.
 *   **ITIL Practices:** Well-versed in ITIL frameworks for <span style="background-color: #fff2ac; background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);">**Incident**</span>, <span style="background-color: #fff2ac; background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);">**Change**</span>, <span style="background-color: #fff2ac; background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);">**Major Incident**</span>, and <span style="background-color: #fff2ac; background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);">**Problem Management**</span>.
-  
-
-
-
-## 🔑 Key Skills
-<p>
-  <!-- Monitoring / Observability -->
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white" alt="New Relic">
-  <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk">
-  <img src="https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  
-  
-  
-</p>
-
-- ITIL: Incident, Change, Major Incident, Problem Management; SLOs, SLIs, SLAs (metrics, traces, logs).  
-- Alerting: success/error/composite alerts, threshold tuning, refinement, noise/toil reduction.  
-- App monitoring: triage in production, dev collaboration via JIRA, runbooks, dashboards, reporting.  
-- Tooling: Grafana (error insights), Kibana (log analysis), Datadog admin (monitors, dashboards), PagerDuty (on-call).  
-- Process: onboarding services to monitoring, gap analysis, RCA participation, weekly/monthly reporting.  
-- Programming: Java, Python (custom metrics, light instrumentation).  
-
-### <span style="color: #2ecc71; font-family: 'Segoe UI', sans-serif; font-weight: 600;">Professional Experience</span>
 
 ---
 
-#### <span style="color: #3498db; font-family: 'Segoe UI', sans-serif;">**DXC Technology, Bangalore**</span> — <span style="font-weight: 600;">Site Reliability Engineer</span> <span style="color: #7f8c8d;">(Dec 2022 – Present)</span>
-**Client:** Qatar Airways — Payments Monitoring Group
+## 🏆 Key Achievements
 
-*   Provided **24/7 support** to global customers for payments applications in production environments.
-*   Managed AWS infrastructure (EC2, VPC, IAM, S3) supporting 50+ microservices and high-volume payment transactions with auto-scaling and fault tolerance
-*   Implemented **SLOs, SLIs, SLAs** to ensure performance and reliability goals were met and measured.
-*   Maintained 99.9%+ uptime for critical applications handling high-volume 􀏐inancial transactions.
-*   Designed and implemented Datadog dashboards, monitors, and SLO tracking, improving system visibility and proactive issue detection
-*  Led P1/P2 incident war rooms and RCA, reducing MTTR by 25% and preventing recurring production issues.
-*  Integrated CI/CD pipelines (Azure DevOps, Git, Maven) to enable reliable and faster deployments with reduced failure rates
-*   Reduced MTTR by 30% by developing Python automation scripts for alerting, log analysis, and incident response.
-*   Configured and monitored alerts with **PagerDuty** to ensure timely incident response and on-call rotations.
-*   Supported distributed microservices architecture with end-to-end monitoring across services using logs, metrics, and traces.
-*   Implemented Infrastructure as Code (Terraform) for provisioning and managing AWS resources
-*   Performed advanced observability tasks: custom dashboards, widgets, panels in DataDog; threshold tuning; noise reduction in alerts.
-*  Collaborated with development teams to debug Java/Spring Boot applications, analyzing logs, JVM metrics, and API performance
-*  Improved monitoring ef􀏐iciency by reducing alert noise and false positives, enhancing operational response time.
-*  Deployed and managed containerized applications on Kubernetes, handling pod failures (CrashLoopBackOff), auto-scaling, and resource optimization.
-  
+| Achievement | Impact |
+|---|---|
+| 🔻 Reduced MTTR by **30%** | Python automation scripts for alert triage, log correlation & incident response at Qatar Airways |
+| 🔕 Cut alert noise by **40%** | Systematic Datadog monitor tuning — improved on-call quality & MTTD |
+| ✅ Sustained **99.9%+ uptime** | Mission-critical payment infrastructure handling millions of daily international transactions |
+| 🔄 Reduced repeat incidents by **25%** | RCA-driven root cause elimination with permanent corrective fixes |
 
-#### <span style="color: #3498db; font-family: 'Segoe UI', sans-serif;">**Wipro, Bangalore**</span> — <span style="font-weight: 600;">Site Reliability Engineer</span> <span style="color: #7f8c8d;">(Apr 2022 – Nov 2022)</span>
-**Client:** Enterprise Solutions — Payments Monitoring
+---
 
-*   Provided **24/7 L1/L2 support** to global customers for critical payments applications in production environments.
-*   Managed and administered the APM/Monitoring stack: **Datadog, Grafana, Kibana, OMI, Tidal, SiteScope**.
-*   **Configured and tuned alert thresholds**, significantly reducing noise from ineffective alerts and improving signal clarity.
-*   Monitored and supported applications, services, and batch jobs across multiple platforms to ensure system health.
-*   **Created and escalated JIRA tickets** to development teams for faster incident resolution and tracking.
-*   Prepared structured **incident checklists** and **runbooks**, sharing clear documentation with clients and business teams.
-*   **Defined and monitored SLA/SLI metrics** for payment services using **Datadog** to uphold service quality agreements.
-*   **Built and customized JIRA dashboards** based on project requirements to streamline workflow and visibility.
-*   Configured **PagerDuty** for effective alerting and implementing escalation workflows to ensure on-call responsiveness.
-*   Performed detailed **incident analysis** and engaged with **Root Cause Analysis (RCA)** teams to drive long-term fixes.
-*   **Generated and shared** daily, weekly, and monthly status reports with business stakeholders to communicate system health and incidents.
-*   Conducted basic **front-end troubleshooting** of applications and engaged next-level support teams for complex issues.
-*   Provided front-line and second-level IT operations support, ensuring outstanding **client service delivery**.
-*   Supported weekend **server patching activities**, including comprehensive pre- and post-patching validation checks.
+## <span style="color: #2ecc71;">💼 Professional Experience</span>
+
+---
+
+### <span style="color: #3498db;">**DXC Technology, Bangalore**</span> — <span style="font-weight: 600;">Site Reliability Engineer</span> <span style="color: #7f8c8d;">(Dec 2022 – Present)</span>
+
+**Client:** Qatar Airways — Payments Platform | AWS · Datadog · Kubernetes · Python · Java/Spring Boot · Microservices
+
+*   Managed fault-tolerant **AWS infrastructure** (EC2, VPC, IAM, S3, Auto Scaling) underpinning **50+ microservices** processing high-volume international payment transactions.
+*   Maintained **99.9%+ uptime** for mission-critical financial services, consistently meeting all SLO targets across production environments.
+*   **Reduced MTTR by 30%** by engineering Python automation scripts for alert triage, log correlation, and incident response workflows — eliminating repetitive manual investigation steps.
+*   Optimized **Datadog monitors and alerting thresholds**, reducing alert noise and false positives by **40%**, enabling faster and more accurate incident detection.
+*   Designed and owned **Datadog dashboards and SLO tracking** for end-to-end system visibility spanning logs, metrics, and APM traces.
+*   Led **P1/P2 incident war rooms** and post-incident root cause analysis (RCA); implemented permanent corrective actions that **cut repeat incidents by 25%**.
+*   Deployed and managed containerized workloads on **Kubernetes** — resolved CrashLoopBackOff failures, tuned resource limits/requests, and implemented HPA for cost-effective auto-scaling.
+*   Built and maintained **CI/CD pipelines** via Azure DevOps (Git, Maven), enabling reliable zero-downtime deployments with significantly reduced rollback rates.
+*   Provisioned and managed AWS resources using **Terraform (IaC)**, improving environment consistency, reducing provisioning errors, and accelerating deployment velocity.
+*   Partnered with development teams to troubleshoot **Java/Spring Boot** applications by analyzing JVM metrics, heap dumps, GC logs, and API latency data to resolve production performance bottlenecks.
+*   Created and escalated **Jira & ServiceNow tickets** to development teams for faster incident resolution and tracking.
+*   Prepared structured **incident runbooks and playbooks**, shared with clients and business stakeholders for operational clarity.
+
+---
+
+### <span style="color: #3498db;">**Wipro Ltd**</span> — <span style="font-weight: 600;">Site Reliability Engineer</span> <span style="color: #7f8c8d;">(Apr 2022 – Nov 2022)</span>
+
+**Domain:** Enterprise Solutions | Critical Transaction Platforms | Datadog · Grafana · Python · AWS · Java/Spring Boot
+
+*   Supported mission-critical **AWS environments** for international enterprise clients; drove SLO/SLI optimization using Datadog and Grafana.
+*   Built **Python automation scripts** for alert validation and monitoring health checks, improving team efficiency and reducing noise-driven false escalations.
+*   Analyzed system logs and cloud deployment patterns to identify recurring failure modes; implemented targeted fixes reducing incident recurrence.
+*   Coordinated **production readiness reviews** for new payment services; improved cross-team onboarding documentation and operational runbooks.
+
+---
+
+## 🚀 Personal Projects
+
+### Real-Time Observability Platform (Datadog)
+
+*   Built an **end-to-end observability stack** with custom Datadog dashboards, SLO tracking, log pipelines, and APM traces for a personal microservices environment.
+*   Replicated production-grade alerting patterns to validate and refine monitor configurations — achieving a **40% reduction in alert noise**.
+*   Authored **runbooks and incident playbooks** as part of an open learning initiative — publicly available at [iamdinesh.xyz](https://www.iamdinesh.xyz/).
+
+---
 
 ## 🛠️ Technical Stack
 
@@ -141,31 +162,28 @@ major, and problem management. Proven ability in Datadog administration, dashboa
 ![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![HP OMi](https://img.shields.io/badge/HP_OMi-0096D6?style=for-the-badge&logo=hp&logoColor=white)
-![SiteScope](https://img.shields.io/badge/SiteScope-0096D6?style=for-the-badge&logo=hp&logoColor=white)
 
 ### 🎫 Ticketing Systems
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-1A9C3E?style=for-the-badge&logo=servicenow&logoColor=white)
 
-### ☁️ Cloud Platforms
+### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
 
 ### 🔄 CI/CD
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS DevOps](https://img.shields.io/badge/AWS_DevOps-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ### 📋 Practices & Frameworks
@@ -173,33 +191,38 @@ major, and problem management. Proven ability in Datadog administration, dashboa
 ![SLIs](https://img.shields.io/badge/SLIs-4A154B?style=for-the-badge)
 ![SLAs](https://img.shields.io/badge/SLAs-4A154B?style=for-the-badge)
 ![ITIL](https://img.shields.io/badge/ITIL-0F7DC2?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-0096D6?style=for-the-badge&logo=agile&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-0096D6?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-0096D6?style=for-the-badge)
 ![SRE](https://img.shields.io/badge/SRE-0F9D58?style=for-the-badge&logo=google&logoColor=white)
 ![Incident Management](https://img.shields.io/badge/Incident_Management-FF6B6B?style=for-the-badge)
 ![Problem Management](https://img.shields.io/badge/Problem_Management-4ECDC4?style=for-the-badge)
 ![Change Management](https://img.shields.io/badge/Change_Management-556270?style=for-the-badge)
+![Error Budgets](https://img.shields.io/badge/Error_Budgets-FF9A00?style=for-the-badge)
+
+### 🎯 Java Ecosystem
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### 🖥️ Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+---
 
+## 🎓 Education
 
-### ⚠️ Alerting & Performance
-![Performance Metrics](https://img.shields.io/badge/Performance_Metrics-FF9A00?style=for-the-badge)
-![Alert Refinement](https://img.shields.io/badge/Alert_Refinement-4CAF50?style=for-the-badge)
-![Noise Reduction](https://img.shields.io/badge/Noise_Reduction-9C27B0?style=for-the-badge)
+**Master of Business Administration (MBA)** — JNTU Anantapur *(2017 – 2019)*
 
-### 🎯 Java Ecosystem
-![J2EE](https://img.shields.io/badge/J2EE-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Actuator](https://img.shields.io/badge/Spring_Actuator-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+> Transitioned into Site Reliability Engineering through self-directed cloud study, hands-on Java/SQL lab work, and professional on-the-job experience.
 
+## 📜 Certifications
 
-# Contact Me
+*   🔄 **AWS Certified Solutions Architect – Associate** *(In Progress; Exam Scheduled 2026)*
+
+---
+
+# 📬 Contact Me
 ## If you'd like to collaborate, ask a question, or just say hello — feel free to drop a message!
 
 <div align="center">
@@ -216,7 +239,7 @@ major, and problem management. Proven ability in Datadog administration, dashboa
     <img src="https://img.shields.io/badge/📍%20Location-Bangalore%2C%20India-FF5722?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
   </a>
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 | **Metric**                | **Details**                                                                                         |
 |---------------------------|-----------------------------------------------------------------------------------------------------|
@@ -224,7 +247,6 @@ major, and problem management. Proven ability in Datadog administration, dashboa
 | **📂 Languages Used**      | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshc227&layout=compact&theme=radical)                |
 | **⭐ Total Stars**          | ![Stars](https://github-readme-stats.vercel.app/api?username=dineshc227&show_icons=true&count_private=true&hide=stars&theme=radical)  |
 
- <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=2,4,6,8,10"  />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=2,4,6,8,10" />
 
 </div>
-
