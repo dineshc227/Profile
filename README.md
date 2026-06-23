@@ -212,7 +212,7 @@ Deep expertise in **incident command, Kubernetes, CI/CD pipelines, Terraform IaC
 
 ## 🎓 Education
 
-**Master of Business Administration (MBA)** — JNTU Anantapur *(2017 – 2019)*
+**Master of Degree)** — JNTU Anantapur *(2017 – 2019)*
 
 > Transitioned into Site Reliability Engineering through self-directed cloud study, hands-on Java/SQL lab work, and professional on-the-job experience.
 
